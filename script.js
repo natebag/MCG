@@ -30,8 +30,8 @@ document.addEventListener('DOMContentLoaded', function() {
             // Add action-specific responses
             if (this.textContent.includes('BUY')) {
                 showHypeMessage('💎 DIAMOND HANDS ACTIVATED! 💎');
-            } else if (this.textContent.includes('TELEGRAM')) {
-                showHypeMessage('🚀 JOINING THE ALPHA GROUP! 🚀');
+            } else if (this.textContent.includes('PUMPFUN')) {
+                showHypeMessage('🚀 HEADING TO PUMPFUN! 🚀');
             } else if (this.textContent.includes('HYPE')) {
                 showHypeMessage('📈 SPREADING THE WORD! 📈');
             }
