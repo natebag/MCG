@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
             } else if (this.textContent.includes('PUMPFUN')) {
                 showHypeMessage('🚀 HEADING TO PUMPFUN! 🚀');
             } else if (this.textContent.includes('HYPE')) {
-                showHypeMessage('📈 SPREADING THE WORD! 📈');
+                showHypeMessage('📈 FOLLOWING ON X! 📈');
             }
         });
     });
